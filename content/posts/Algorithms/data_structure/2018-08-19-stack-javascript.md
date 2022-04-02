@@ -1,9 +1,16 @@
 ---
-key: 20180819
 title: "[Data Structure] JavaScript Stack 구현"
 excerpt: "JavaScript Stack 구현하기"
-tags: [algorithms, javascript]
-categories: algorithms
+date: 2018-03-19
+draft: false
+tags:
+    - algorithms
+    - data structure
+categories:
+    - algorithms
+keywords:
+    - markdown
+    - code block
 ---
 
 
